@@ -1,3 +1,5 @@
+
 [global]
 floatX = float32
-device = cuda0
+device = cuda
+force_device=True
